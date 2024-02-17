@@ -1,4 +1,4 @@
-## Oiii eu sou o Vinicius Gabriel, sou desenvolvedor de software e estudante de programação 
+## Oii sou o Vinicius, sou desenvolvedor de software e estudante de programação 
 
 <!-- status -->
 
