@@ -1,4 +1,4 @@
-## Olá Mundo! eu sou o Vinicius, desenvolvedor de software e estudante de programação 
+## Olá Mundo, eu sou o Vinicius, desenvolvedor de software e estudante de programação 
 
 <div>
 
