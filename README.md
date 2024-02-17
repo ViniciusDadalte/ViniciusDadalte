@@ -12,6 +12,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusDadalte&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDadalte&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <div style="display: inline_block"><br>
