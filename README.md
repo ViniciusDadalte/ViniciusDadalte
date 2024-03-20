@@ -1,4 +1,4 @@
-## Olá Mundo, eu sou o Vinicius, seja bem vindo ao meu perfil.
+## Hello World, I'm Vinicius, welcome to my profile.
 
 <div>
 
