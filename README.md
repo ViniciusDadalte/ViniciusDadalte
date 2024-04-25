@@ -1,11 +1,9 @@
 ## Hello World, I'm Vinicius, welcome to my profile.
 
 <div>
- <div style="text-align: center;">
- 
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDadalte&hide_progress=true&theme=tokyonight)
  
- </div>
 </div>
 
 ##
