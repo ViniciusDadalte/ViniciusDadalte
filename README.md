@@ -1,11 +1,11 @@
 ## Hello World, I'm Vinicius, welcome to my profile.
 
 <div>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusDadalte&show_icons=true&theme=tokyonight)
+ <div style="text-align: center;">
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDadalte&hide_progress=true&theme=tokyonight)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDadalte&hide_progress=true&theme=tokyonight)
+ 
+ </div>
 </div>
 
 ##
