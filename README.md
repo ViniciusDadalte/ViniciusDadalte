@@ -1,9 +1,14 @@
 ## Hello World, I'm Vinicius, welcome to my profile.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDadalte&layout=compact&theme=tokyonight)
+<div>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusDadalte&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
+</div>
 
 ##
-<div style="display: inline_block">
+
+<div style="display: inline_block"><br>
   
   <img align="center" alt="Vini-Arch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
  
